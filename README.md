@@ -1,2 +1,4 @@
-Git hub上で変更
-confrict 発生　git hub上
+
+# git-practice
+このリポジトリはGit動画講座用です．
+
